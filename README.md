@@ -9,6 +9,7 @@ This is a very simple, bare-bones NodeJS project created for you to use with Doc
 - Install dependencies: `npm install`
 - Run server: `node server.js`
 
+
 ## Container Setup
 
 - Build image: `docker build .`
