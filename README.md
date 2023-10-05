@@ -27,6 +27,8 @@ Very
 
 
 jsonString
+write
+`const fs = require('fs');`
 
 
 Very Much
