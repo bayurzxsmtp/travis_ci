@@ -21,12 +21,5 @@ This is a very simple, bare-bones NodeJS project created for you to use with Doc
 
 - Remove container: `docker kill {container_id}` where `container_id` can be retrieved by running `docker ps` and found under the column `CONTAINER ID`
 
-Thanks again
-Very Much
-Thanks again
-Very Much
-Thanks again
-Very Much
-Thanks again
 Very Much
 Again
