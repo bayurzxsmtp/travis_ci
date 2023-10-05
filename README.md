@@ -11,6 +11,7 @@ This is a very simple, bare-bones NodeJS project created for you to use with Doc
 
 ## Container Setup
 
+
 - Build image: `docker build .`
 - Run container with image: `docker run {image_id}` where `image_id` can be retrieved by running `docker images` and found under the column `IMAGE ID`
 - You can use the `-d` flag to run the container in the background. This will enable you to run other commands in your terminal while the container is running.
